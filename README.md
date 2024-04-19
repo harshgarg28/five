@@ -1,6 +1,6 @@
 # CRUD API README
 
-Welcome to the documentation for the CRUD API hosted at https://five-m1d0.onrender.com. This API provides endpoints for creating, reading, updating, and deleting posts.
+Welcome to the documentation for the CRUD API hosted at https://five-m1d0.onrender.com/posts. This API provides endpoints for creating, reading, updating, and deleting posts.
 
 ## Endpoints
 
